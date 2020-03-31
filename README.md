@@ -11,3 +11,6 @@ Compile options :  g++ -std=c++11  fvsa.cpp -o fvsa -I/usr/local/include/opencv4
 
   
 TLDS - Traffic Light Detection System
+TLDS function is made to detect changes in traffic light i.e.When color changes from Red to Green.
+TLDS function can vary from country to country because of different traffic light patterns. 
+In here we provide this fucntion for South Korea and Australia.
